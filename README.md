@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [bug-tracker-app-full-stack-auth](https://github.com/deanp04/bug-tracker-app-full-stack-auth)
 
-- 🌱 I’m currently learning **React, Typescript**
+- 🌱 I’m currently learning **React, Typescript, AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/deanp04](https://github.com/deanp04)
 
