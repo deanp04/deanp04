@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **deanp04@gmail.com**
 
-- ⚡ **I enjoy fitness, playing trumpet and staying involved in music.**
+- ⚡ **I enjoy fitness, golf, playing trumpet and staying involved in music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
