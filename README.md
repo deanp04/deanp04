@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [full-stack-quizzical-react-app](https://github.com/deanp04/quizzical-react-app)
 
-- 🌱 I’m currently learning **React, Typescript, AWS**
+- 🌱 I’m currently learning **C#, .NET, React, Typescript, AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/deanp04](https://github.com/deanp04)
 
