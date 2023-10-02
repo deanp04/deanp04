@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dean</h1>
-<h3 align="center">A software engineer based in Atlanta, GA</h3>
+<h3 align="center">A full stack software developer based in Atlanta, GA</h3>
 
-- 🔭 I’m currently working on a [full-stack-quizzical-react-app](https://github.com/deanp04/quizzical-react-app)
+- 🔭 I’m currently working on a [fitness-journal-react-app](https://github.com/deanp04/fitness-journal-react-frontend)
 
 - 🌱 I’m currently learning **C#, React, Typescript**
 
